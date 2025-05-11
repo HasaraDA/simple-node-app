@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hassalaa/simple-node-app:latest
+          tags: hassalaa/simple-node-app:1.0
