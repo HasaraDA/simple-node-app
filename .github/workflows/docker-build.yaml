@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hasarada/simple-node-app:1.0
+          tags: hassalaa/simple-node-app:latest
